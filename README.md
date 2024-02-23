@@ -31,17 +31,26 @@ Background IMG by [Adobe Stock](https://stock.adobe.com/search?k=space+cartoon+b
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmeline1101&layout=compact&theme=tokyonight" />&nbsp;&nbsp;
 </p>
 
+## 📅  My Commit Calendar:
 
-## Test:
-name: Contributors with contributions count
+```yaml
+name: GitHub City
 uses: lowlighter/metrics@latest
 with:
-  filename: metrics.plugin.contributors.contributions.svg
-  token: ${{ secrets.METRICS_TOKEN }}
+  filename: metrics.plugin.skyline.city.svg
+  token: NOT_NEEDED
   base: ""
-  template: repository
-  repo: metrics
-  plugin_contributors: yes
-  plugin_contributors_contributions: yes
+  plugin_skyline: yes
+  plugin_skyline_year: 2020
+  plugin_skyline_frames: 6
+  plugin_skyline_quality: 1
+  plugin_skyline_settings: |
+    {
+      "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
+      "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+      "wait": 4,
+      "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+    }
+```
 
 </div>
