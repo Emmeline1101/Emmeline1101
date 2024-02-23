@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Emmeline!](assets/header.gif)](https://github.com/kshyun28)
+[![Hello World, I'm Emmeline!](assets/IMG.jpeg)](https://github.com/Emmeline1101/blob/main)
 Background IMG by [Adobe Stock](https://stock.adobe.com/search?k=space+cartoon+background&asset_id=152457321).
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/emmelinexu/) &nbsp;
