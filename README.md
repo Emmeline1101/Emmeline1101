@@ -10,8 +10,8 @@ Background IMG by [Adobe Stock](https://www.pinterest.com/pin/5277724550564022/)
 
 - 🏫 I’m currently a graduate student majoring in [Software Engineering](https://mswe.ics.uci.edu/), at the University of California, Irvine.
 - 🌱 I’m passionate about [Frontend Development](https://en.wikipedia.org/wiki/Front-end_web_development), [Backend Development](https://www.geeksforgeeks.org/backend-development/) and [Microservices Architecture](https://microservices.io/).
-- 📝 I’m aiming to upload **LeetCode solutions, study notes, exercise routines, or projects at least per week** starting from January 2024.
-- 🏆 I'm committed to expanding my knowledge by learning new technologies and exploring various projects to enhance my GitHub activity and contribute to the open-source community.
+- 📝 I’m aiming to upload **LeetCode solutions, study notes, or projects at least per week** starting from January 2024.
+- 🏆 I'm committed to enhancing my GitHub activity and exploring more projects & skills.
 - ⚡ Fun Fact: I read books (enjoy art history & religious studies), play the Genshin Impact game, and experiment with cooking recipes!
 
 <div align="center">
