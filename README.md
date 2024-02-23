@@ -1,7 +1,7 @@
 <div align="center">
 
 [![Hello World, I'm Emmeline!](assets/header.gif)](https://github.com/kshyun28)
-Background IMG by [Adobe Stock](https://www.pinterest.com/pin/5277724550564022/).
+Background IMG by [Adobe Stock](https://stock.adobe.com/search?k=space+cartoon+background&asset_id=152457321).
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/emmelinexu/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:emmelinexu23@gmail.com?subject=Hello%20Emmeline,%20From%20Github)
@@ -18,7 +18,7 @@ Background IMG by [Adobe Stock](https://www.pinterest.com/pin/5277724550564022/)
 
 ## 💡 A Quote:
 
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 💻 My Tech Stack:
 
@@ -27,7 +27,7 @@ Background IMG by [Adobe Stock](https://www.pinterest.com/pin/5277724550564022/)
 ## 🏆 My Stats:
 
 <p>
-    <!-- <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Emmeline1101&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;&nbsp; -->
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Emmeline1101&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmeline1101&layout=compact&theme=tokyonight" />&nbsp;&nbsp;
 </p>
 
