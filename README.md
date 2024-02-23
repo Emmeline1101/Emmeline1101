@@ -31,4 +31,17 @@ Background IMG by [Adobe Stock](https://stock.adobe.com/search?k=space+cartoon+b
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmeline1101&layout=compact&theme=tokyonight" />&nbsp;&nbsp;
 </p>
 
+
+## Test:
+name: Contributors with contributions count
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.contributors.contributions.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  template: repository
+  repo: metrics
+  plugin_contributors: yes
+  plugin_contributors_contributions: yes
+
 </div>
