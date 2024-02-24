@@ -41,7 +41,7 @@ Background IMG by [Adobe Stock](https://stock.adobe.com/search?k=space+cartoon+b
 
 ![springboot](https://img.shields.io/badge/-springboot-%23282C34?style=flat-square&logo=springboot)
 ![flask](https://img.shields.io/badge/-flask-%23282C34?style=flat-square&logo=flask)
-![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
+<!--![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat) -->
 
 
 ![MySQL](https://img.shields.io/badge/-mysql-007ACC?style=flat-square&logo=mysql&labelColor=0D1117)
