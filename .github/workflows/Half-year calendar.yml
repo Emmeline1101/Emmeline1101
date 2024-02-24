@@ -25,9 +25,10 @@ jobs:
       - name: Update README
         uses: Emmeline1101/README@main
         with:
-          repo_path: Emmeline1101/Emmeline1101
+          repo_path: Emmeline1101  # 修改为仓库的名称
           file_path: README.md
           COMMIT_MSG: "Updated README with recent activity"
           MAX_LINES: 10
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
