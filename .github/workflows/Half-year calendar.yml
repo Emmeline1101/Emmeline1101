@@ -1,3 +1,4 @@
+<!--
 name: Update README
 
 on:
@@ -30,3 +31,4 @@ jobs:
         run: echo "${{ steps.read-readme.outputs.README_CONTENT }}" > README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
