@@ -23,8 +23,9 @@ Background IMG by [Adobe Stock](https://stock.adobe.com/search?k=space+cartoon+b
 ## 💻 My Tech Stack:
 
 [![Java, SQL, Node.js, JavaScript, TypeScript, Python, react, Git](https://skillicons.dev/icons?i=java,mysql,nodejs,js,ts,py,react,git)](https://skillicons.dev)
+</div>
 
-    <div align="left">
+<div align="left">
 
 ## General Skills
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -78,7 +79,9 @@ Background IMG by [Adobe Stock](https://stock.adobe.com/search?k=space+cartoon+b
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-    </div>
+</div>
+
+<div align="center">
 ## 🏆 My Stats:
 
 <p>
