@@ -5,7 +5,9 @@
     token: ${{ secrets.METRICS_TOKEN }}
     base: ""
     plugin_isocalendar: yes
-on:
+
+on: 
+  push:
   schedule:
     - cron: "*/5 * * * *" # Runs every 5 minutes.
 
