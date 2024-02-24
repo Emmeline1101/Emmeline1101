@@ -25,33 +25,44 @@ Background IMG by [Adobe Stock](https://stock.adobe.com/search?k=space+cartoon+b
 [![Java, SQL, Node.js, JavaScript, TypeScript, Python, react, Git](https://skillicons.dev/icons?i=java,mysql,nodejs,js,ts,py,react,git)](https://skillicons.dev)
 
 ## General Skills
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&labelColor=0D1117)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=flat-square&logo=windows&labelColor=0D1117)
-</div>
+
 
 
 
 ## Backend Skills
-![Java](https://img.shields.io/badge/-Java-%232c3e50?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-python-%23F7DF1C?style=flat-square&logo=python&labelColor=0D1117)
-![Golang](https://img.shields.io/badge/-Golang-%232c3e50?style=flat-square&logo=go)
-![NodeJS](https://img.shields.io/badge/-Node.js-%232E8B57?style=flat-square&logo=nodedotjs&labelColor=0D1117)
-![springboot](https://img.shields.io/badge/-springboot-%23282C34?style=flat-square&logo=springboot)
-![flask](https://img.shields.io/badge/-flask-%23282C34?style=flat-square&logo=flask)
+#### 📋 Languages
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+
+#### 📚 Frameworks, Platforms and Libraries
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+#### 💾 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### ☁️ Hosting/SaaS
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+#### 🥅 Other
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-![MySQL](https://img.shields.io/badge/-mysql-007ACC?style=flat-square&logo=mysql&labelColor=0D1117)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-
-![Docker](https://img.shields.io/badge/-Docker-%23282C34?&logo=Docker)
-![AWS](https://img.shields.io/badge/-AWS-%23282C34?&logo=Amazon-AWS)
 
 
 ## Frontend Skills
@@ -65,7 +76,7 @@ Background IMG by [Adobe Stock](https://stock.adobe.com/search?k=space+cartoon+b
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-<div align="center">
+
 ## 🏆 My Stats:
 
 <p>
