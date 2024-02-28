@@ -9,7 +9,7 @@ Background IMG by [Adobe Stock](https://stock.adobe.com/search?k=space+cartoon+b
 </div>
 
 - 🏫 I’m currently a graduate student majoring in [Software Engineering](https://mswe.ics.uci.edu/), at the University of California, Irvine.
-- 🌱 I’m passionate about **Networking, Backend Development, and Microservices Architecture**.
+- 🌱 I’m passionate about **Networking, Backend Development, and Distributed Architecture**.
 - 📝 I’m aiming to upload **LeetCode solutions, study notes, or projects at least per week** starting from January 2024.
 - 🏆 I'm committed to enhancing my GitHub activity and exploring more projects & skills.
 - ⚡ Fun Fact: I read books (enjoy art history & religious studies), play the Genshin Impact game, and cook!
