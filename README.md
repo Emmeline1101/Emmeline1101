@@ -6,7 +6,7 @@ Background IMG by [Adobe Stock](https://stock.adobe.com/search?k=space+cartoon+b
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/emmelinexu/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:emmelinexu23@gmail.com?subject=Hello%20Emmeline,%20From%20Github)
 
-</div>
+</div> 
  
 - 🏫 I’m currently a graduate student majoring in [Software Engineering](https://mswe.ics.uci.edu/), at the University of California, Irvine.
 - 🌱 I’m passionate about **Networking, Backend Development, and Distributed Architecture**.
