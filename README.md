@@ -15,7 +15,7 @@ Background IMG by [Adobe Stock](https://stock.adobe.com/search?k=space+cartoon+b
 - ⚡ Fun Fact: I read books (enjoy art history & religious studies), play the Genshin Impact game, and cook!
 
 <div align="center">
-
+   
 ## 💡 A Quote:
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
