@@ -87,7 +87,7 @@ Background IMG by [Adobe Stock](https://stock.adobe.com/search?k=space+cartoon+b
 
 <div align="center">
     
-## 🏆 My Stats:
+## 🏆 Most Used Languages:
 
 <p>
     <!--<img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Emmeline1101&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;&nbsp;-->
