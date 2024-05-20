@@ -5,8 +5,9 @@ Background IMG by [Adobe Stock](https://stock.adobe.com/search?k=space+cartoon+b
 
 <!--[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/emmelinexu/) &nbsp; -->
 <!--[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:emmelinexu23@gmail.com?subject=Hello%20Emmeline,%20From%20Github) -->
-[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">](https://www.linkedin.com/in/emmelinexu/){:target="_blank"} &nbsp; 
-[<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">](mailto:emmelinexu23@gmail.com?subject=Hello%20Emmeline,%20From%20Github){:target="_blank"}
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/emmelinexu/ target="_blank") &nbsp;
+
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:emmelinexu23@gmail.com?subject=Hello%20Emmeline,%20From%20Github target="_blank")
 
 </div> 
 
