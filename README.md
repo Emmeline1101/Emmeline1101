@@ -3,8 +3,10 @@
 [![Hello World, I'm Emmeline!](assets/IMG.jpeg)](https://github.com/Emmeline1101/blob/main)  
 Background IMG by [Adobe Stock](https://stock.adobe.com/search?k=space+cartoon+background&asset_id=152457321).
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/emmelinexu/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:emmelinexu23@gmail.com?subject=Hello%20Emmeline,%20From%20Github)
+<!--[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/emmelinexu/) &nbsp; -->
+<!--[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:emmelinexu23@gmail.com?subject=Hello%20Emmeline,%20From%20Github) -->
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">](https://www.linkedin.com/in/emmelinexu/){:target="_blank"} &nbsp; 
+[<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">](mailto:emmelinexu23@gmail.com?subject=Hello%20Emmeline,%20From%20Github){:target="_blank"}
 
 </div> 
 
