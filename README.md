@@ -8,7 +8,7 @@ Background IMG by [Adobe Stock](https://stock.adobe.com/search?k=space+cartoon+b
 
 
 </div> 
-Hi there! Nice to meet you 😄! This is Yiren, you can also call me Emmeline.  
+   Hi there! Nice to meet you 😄 ! This is Yiren, you can also call me Emmeline. 
 
 - 🏫 I’m currently a graduate student majoring in [Software Engineering](https://mswe.ics.uci.edu/), at the University of California, Irvine.
 - 🌱 I’m passionate about **Full-stack, Backend Development, and Cloud Native**.
