@@ -9,7 +9,8 @@ Background IMG by [Adobe Stock](https://stock.adobe.com/search?k=space+cartoon+b
 
 </div> 
    Hi there! Nice to meet you 😄 ! This is Yiren, you can also call me Emmeline. 
-   </br>
+   </br>  
+   
 - 🏫 I’m currently a graduate student majoring in [Software Engineering](https://mswe.ics.uci.edu/), at the University of California, Irvine.
 - 🌱 I’m passionate about **Full-stack, Backend Development, and Cloud Native**.
 - 📝 I’m aiming to upload **LeetCode solutions, study notes, or projects** starting from January 2024.
