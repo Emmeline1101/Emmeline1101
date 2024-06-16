@@ -16,7 +16,7 @@ Background IMG by [Adobe Stock](https://stock.adobe.com/search?k=space+cartoon+b
 - 📝 I’m aiming to upload **LeetCode solutions, study notes, or projects** starting from January 2024.
 - 😈 Fun Fact: I love watching anime🗼and enjoy reading books on diverse topics like art history and religion. I play Genshin Impact and enjoy cooking🥘. Finally, I hope to take a long trip to Japan🌃🎆!
 
-<div align="center">
+<div align="center"> 
    
 ## 💡 A Quote:
 
