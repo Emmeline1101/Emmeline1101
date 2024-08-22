@@ -12,7 +12,7 @@ Background IMG by [Adobe Stock](https://stock.adobe.com/search?k=space+cartoon+b
    </br>  
    
 - 🏫 I’m currently a graduate student majoring in [Software Engineering](https://mswe.ics.uci.edu/), at the University of California, Irvine.
-- 🌱 I’m passionate about **Full-stack, Backend Development, and Cloud Native**.
+- 🌱 I’m passionate about **Full-stack, Distributed System**.
 - 📝 I’m aiming to upload **LeetCode solutions, study notes, or projects** starting from January 2024.
 - 😈 Fun Fact: I love watching anime🗼and enjoy reading books on diverse topics like art history and religion. I play games (Zenless Zone Zero & Star Rail) and enjoy cooking🥘. Finally, I hope to take a long trip to Japan🌃🎆!
 
